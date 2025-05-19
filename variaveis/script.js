@@ -9,4 +9,5 @@ let idade = 17
 // var -> É mais recomendado usar o let
 var digaOi = 'oi'
 
+// mostra a mensagem no console do chrome
 console.log(`Olá ${name} prazer em te conhecer` )
